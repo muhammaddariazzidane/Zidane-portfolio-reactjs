@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/Zidane-portfolio-reactjs/static/css/main.fc87eb9a.css",
-    "main.js": "/Zidane-portfolio-reactjs/static/js/main.d7178c2a.js",
+    "main.css": "/Zidane-portfolio-reactjs/static/css/main.0376655b.css",
+    "main.js": "/Zidane-portfolio-reactjs/static/js/main.fc2f7d58.js",
     "static/js/787.a2cb61a6.chunk.js": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js",
+    "static/media/movieslist.png": "/Zidane-portfolio-reactjs/static/media/movieslist.19512ab11bd270a6a62d.png",
+    "static/media/zshop.png": "/Zidane-portfolio-reactjs/static/media/zshop.89f9d27aa3caece3f338.png",
     "static/media/z-removebg-preview.png": "/Zidane-portfolio-reactjs/static/media/z-removebg-preview.128e03b7f14feb5deedc.png",
+    "static/media/tokoamel.png": "/Zidane-portfolio-reactjs/static/media/tokoamel.945d5a6aa398a8e3c456.png",
     "static/media/bootstrap.png": "/Zidane-portfolio-reactjs/static/media/bootstrap.05abc0290430e8c6bddb.png",
+    "static/media/downloader.png": "/Zidane-portfolio-reactjs/static/media/downloader.95587060056d51daece5.png",
     "static/media/php.png": "/Zidane-portfolio-reactjs/static/media/php.7019f5271bf8bf1aeae9.png",
     "static/media/python.png": "/Zidane-portfolio-reactjs/static/media/python.ef9aab903ffcbbaf367a.png",
     "static/media/Tailwindcss1.png": "/Zidane-portfolio-reactjs/static/media/Tailwindcss1.e6215bf476e91225c367.png",
@@ -13,12 +17,12 @@
     "static/media/html5.png": "/Zidane-portfolio-reactjs/static/media/html5.397540dec969b31fd37c.png",
     "static/media/css3.png": "/Zidane-portfolio-reactjs/static/media/css3.57feb85c31eec0ff2e1a.png",
     "index.html": "/Zidane-portfolio-reactjs/index.html",
-    "main.fc87eb9a.css.map": "/Zidane-portfolio-reactjs/static/css/main.fc87eb9a.css.map",
-    "main.d7178c2a.js.map": "/Zidane-portfolio-reactjs/static/js/main.d7178c2a.js.map",
+    "main.0376655b.css.map": "/Zidane-portfolio-reactjs/static/css/main.0376655b.css.map",
+    "main.fc2f7d58.js.map": "/Zidane-portfolio-reactjs/static/js/main.fc2f7d58.js.map",
     "787.a2cb61a6.chunk.js.map": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc87eb9a.css",
-    "static/js/main.d7178c2a.js"
+    "static/css/main.0376655b.css",
+    "static/js/main.fc2f7d58.js"
   ]
 }
