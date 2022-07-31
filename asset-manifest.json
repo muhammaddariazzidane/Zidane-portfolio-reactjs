@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zidane-portfolio-reactjs/static/css/main.7267603e.css",
-    "main.js": "/Zidane-portfolio-reactjs/static/js/main.b6540d1a.js",
+    "main.js": "/Zidane-portfolio-reactjs/static/js/main.01433932.js",
     "static/js/787.a2cb61a6.chunk.js": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js",
     "static/media/movieslist.png": "/Zidane-portfolio-reactjs/static/media/movieslist.19512ab11bd270a6a62d.png",
     "static/media/zshop.png": "/Zidane-portfolio-reactjs/static/media/zshop.89f9d27aa3caece3f338.png",
@@ -23,11 +23,11 @@
     "static/media/css3.png": "/Zidane-portfolio-reactjs/static/media/css3.57feb85c31eec0ff2e1a.png",
     "index.html": "/Zidane-portfolio-reactjs/index.html",
     "main.7267603e.css.map": "/Zidane-portfolio-reactjs/static/css/main.7267603e.css.map",
-    "main.b6540d1a.js.map": "/Zidane-portfolio-reactjs/static/js/main.b6540d1a.js.map",
+    "main.01433932.js.map": "/Zidane-portfolio-reactjs/static/js/main.01433932.js.map",
     "787.a2cb61a6.chunk.js.map": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7267603e.css",
-    "static/js/main.b6540d1a.js"
+    "static/js/main.01433932.js"
   ]
 }
