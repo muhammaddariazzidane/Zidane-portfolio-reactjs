@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/Zidane-portfolio-reactjs/static/css/main.5597cc6c.css",
-    "main.js": "/Zidane-portfolio-reactjs/static/js/main.89d45ef3.js",
+    "main.css": "/Zidane-portfolio-reactjs/static/css/main.fc87eb9a.css",
+    "main.js": "/Zidane-portfolio-reactjs/static/js/main.d7178c2a.js",
     "static/js/787.a2cb61a6.chunk.js": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js",
     "static/media/z-removebg-preview.png": "/Zidane-portfolio-reactjs/static/media/z-removebg-preview.128e03b7f14feb5deedc.png",
+    "static/media/bootstrap.png": "/Zidane-portfolio-reactjs/static/media/bootstrap.05abc0290430e8c6bddb.png",
+    "static/media/php.png": "/Zidane-portfolio-reactjs/static/media/php.7019f5271bf8bf1aeae9.png",
+    "static/media/python.png": "/Zidane-portfolio-reactjs/static/media/python.ef9aab903ffcbbaf367a.png",
+    "static/media/Tailwindcss1.png": "/Zidane-portfolio-reactjs/static/media/Tailwindcss1.e6215bf476e91225c367.png",
     "static/media/reactjs.png": "/Zidane-portfolio-reactjs/static/media/reactjs.b37f0a4b7134b3c99d6e.png",
+    "static/media/javascript.png": "/Zidane-portfolio-reactjs/static/media/javascript.621f6061172a58343b60.png",
+    "static/media/html5.png": "/Zidane-portfolio-reactjs/static/media/html5.397540dec969b31fd37c.png",
+    "static/media/css3.png": "/Zidane-portfolio-reactjs/static/media/css3.57feb85c31eec0ff2e1a.png",
     "index.html": "/Zidane-portfolio-reactjs/index.html",
-    "main.5597cc6c.css.map": "/Zidane-portfolio-reactjs/static/css/main.5597cc6c.css.map",
-    "main.89d45ef3.js.map": "/Zidane-portfolio-reactjs/static/js/main.89d45ef3.js.map",
+    "main.fc87eb9a.css.map": "/Zidane-portfolio-reactjs/static/css/main.fc87eb9a.css.map",
+    "main.d7178c2a.js.map": "/Zidane-portfolio-reactjs/static/js/main.d7178c2a.js.map",
     "787.a2cb61a6.chunk.js.map": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5597cc6c.css",
-    "static/js/main.89d45ef3.js"
+    "static/css/main.fc87eb9a.css",
+    "static/js/main.d7178c2a.js"
   ]
 }
