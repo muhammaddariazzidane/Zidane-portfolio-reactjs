@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zidane-portfolio-reactjs/static/css/main.99a95126.css",
+    "main.js": "/Zidane-portfolio-reactjs/static/js/main.52351489.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js",
+    "static/media/reactjs.png": "/Zidane-portfolio-reactjs/static/media/reactjs.b37f0a4b7134b3c99d6e.png",
+    "index.html": "/Zidane-portfolio-reactjs/index.html",
+    "main.99a95126.css.map": "/Zidane-portfolio-reactjs/static/css/main.99a95126.css.map",
+    "main.52351489.js.map": "/Zidane-portfolio-reactjs/static/js/main.52351489.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Zidane-portfolio-reactjs/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a95126.css",
+    "static/js/main.52351489.js"
+  ]
+}
